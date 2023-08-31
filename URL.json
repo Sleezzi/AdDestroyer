@@ -36,5 +36,12 @@
 	"https://ifsnickshriek.com/",
 	"https://cabbabip.com/",
 	"https://static.twitchcdn.net/assets/features.video-player.components.video-ads.pushdown-sda-eligibility-1a1208e7655b8921f4a4.js",
-	"https://cdn.creative-bars1.com/"
+	"https://cdn.creative-bars1.com/",
+	"https://metrics.roblox.com/v1/thumbnails/metadata",
+	"https://notifications.roblox.com/v2/push-notifications/chrome-manifest",
+	"https://apis.roblox.com/universal-app-configuration/v1/behaviors/cookie-policy/content",
+	"https://metrics.roblox.com/v1/performance/send-measurement",
+	"https://metrics.roblox.com/v1/performance/measurements",
+	"https://lms.roblox.com/report",
+	"https://www.roblox.com/user-sponsorship/"
 ]
