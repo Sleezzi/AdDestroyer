@@ -43,5 +43,6 @@
 	"https://metrics.roblox.com/v1/performance/send-measurement",
 	"https://metrics.roblox.com/v1/performance/measurements",
 	"https://lms.roblox.com/report",
-	"https://www.roblox.com/user-sponsorship/"
+	"https://www.roblox.com/user-sponsorship/",
+	"https://logs.xiti.com/hit.xiti"
 ]
