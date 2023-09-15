@@ -1,0 +1,1 @@
+console.log("AdsDestroyer was here :)");
