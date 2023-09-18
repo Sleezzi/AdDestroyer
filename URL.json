@@ -9,6 +9,7 @@
 	"https://static.doubleclick.net/",
 	"https://ad.doubleclick.net/",
 	"https://googleads.g.doubleclick.net/",
+	"https://www.google-analytics.com/",
 	"https://www.googleadservices.com/",
 	"https://lh5.googleusercontent.com/proxy/",
 	"https://lh6.googleusercontent.com/proxy/",
@@ -54,7 +55,5 @@
 	"https://espacenumerique.turbo-self.com/App_Themes/js/cookieconsent-init.js",
 	"https://espacenumerique.turbo-self.com/App_Themes/js/ihm-ads.js",
 	"https://mtm.turbo-self.fr/matomo.php",
-	"https://mtm.turbo-self.fr/matomo.js",
-	"https://www.google-analytics.com",
-	"https://www.google-analytics.com/"
+	"https://mtm.turbo-self.fr/matomo.js"
 ]
