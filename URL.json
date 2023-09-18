@@ -57,5 +57,5 @@
 	"https://mtm.turbo-self.fr/matomo.php",
 	"https://mtm.turbo-self.fr/matomo.js",
 	"https://collector.github.com/",
-	"https://api.github.com/_private/browser/stats",
+	"https://api.github.com/_private/browser/stats"
 ]
