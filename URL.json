@@ -55,5 +55,7 @@
 	"https://espacenumerique.turbo-self.com/App_Themes/js/cookieconsent-init.js",
 	"https://espacenumerique.turbo-self.com/App_Themes/js/ihm-ads.js",
 	"https://mtm.turbo-self.fr/matomo.php",
-	"https://mtm.turbo-self.fr/matomo.js"
+	"https://mtm.turbo-self.fr/matomo.js",
+	"https://collector.github.com/",
+	"https://api.github.com/_private/browser/stats",
 ]
