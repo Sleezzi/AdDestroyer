@@ -57,5 +57,13 @@
 	"https://mtm.turbo-self.fr/matomo.php",
 	"https://mtm.turbo-self.fr/matomo.js",
 	"https://collector.github.com/",
-	"https://api.github.com/_private/browser/stats"
+	"https://api.github.com/_private/browser/stats",
+	"https://www.facebook.com/images/cookies/",
+	"https://www.facebook.com/ajax/bz",
+	"https://www.instagram.com/logging/falco",
+	"https://www.instagram.com/ajax/bz",
+	"https://reporting.cdndex.io/error",
+	"https://d2v02itv0y9u9t.cloudfront.net/dist/",
+	"https://sb.scorecardresearch.com/beacon.js",
+	"https://sb.scorecardresearch.com/p"
 ]
