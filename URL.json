@@ -63,6 +63,7 @@
 	"https://collector.github.com/",
 	"https://api.github.com/_private/browser/stats",
 	"https://www.facebook.com/images/cookies/",
+	"https://connect.facebook.net/en_US/fbevents.js",
 	"https://www.facebook.com/ajax/bz",
 	"https://www.instagram.com/logging/falco",
 	"https://www.instagram.com/ajax/bz",
