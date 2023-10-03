@@ -273,6 +273,6 @@
 	},
 	"github.com/Sleezzi/AdsDestroyer": {
 		"priority": 1,
-		"action": { "type": "allow" } }
+		"action": { "type": "allow" }
 	}
 }
