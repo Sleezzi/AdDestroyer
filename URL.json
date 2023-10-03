@@ -271,7 +271,7 @@
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
 	},,
-	"ad*.*.*": {
+	"ad*.": {
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
 	},	
