@@ -1,4 +1,8 @@
 {
+	"github.com/Sleezzi/AdsDestroyer": {
+		"priority": 1,
+		"action": { "type": "allow" } }
+	},
 	"youtube.com/pagead": {
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
