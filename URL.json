@@ -270,8 +270,8 @@
 	"||adnxs.co": {
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
-	},,
-	"ad*.": {
+	},
+	"ads.||*": {
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
 	},	
