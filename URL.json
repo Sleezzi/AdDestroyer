@@ -79,7 +79,7 @@
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
 	},
-	"open.spotifycdn.com/cdn/js/retargeting-pixels||.js": {
+	"open.spotifycdn.com/cdn/js/retargeting-pixels.*.js": {
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
 	},
@@ -199,7 +199,7 @@
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
 	},
-	"mtm.turbo-self.fr/matomo.||": {
+	"mtm.turbo-self.fr/matomo.*": {
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
 	},
@@ -215,7 +215,7 @@
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
 	},
-	"connect.facebook.net/||/fbevents.js": {
+	"connect.facebook.net/*/fbevents.js": {
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
 	},
@@ -270,7 +270,11 @@
 	"||adnxs.co": {
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
-	},
+	},,
+	"ad*.*.*": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+	},	
 	"github.com/Sleezzi/AdsDestroyer": {
 		"priority": 1,
 		"action": { "type": "allow" }
