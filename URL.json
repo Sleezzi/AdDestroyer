@@ -66,5 +66,8 @@
 	"||ingest.sentry.io",
 	"instagram.com/logging/falco",
 	"instagram.com/ajax/",
-	"apple.com/metrics/ac-analytics"
+	"apple.com/metrics/ac-analytics",
+	"cookie",
+	"ad",
+	"analytics"
 ]
