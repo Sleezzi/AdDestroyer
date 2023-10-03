@@ -271,18 +271,6 @@
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
 	},
-	"cookie": {
-		"priority": 2,
-		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
-	},
-	"ad": {
-		"priority": 2,
-		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
-	},
-	"analytic": {
-		"priority": 2,
-		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
-	},
 	"github.com/Sleezzi/AdsDestroyer": {
 		"priority": 1,
 		"action": { "type": "allow" } }
