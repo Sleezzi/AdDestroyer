@@ -1,73 +1,286 @@
-[
-	"youtube.com/pagead",
-	"youtube.com/ptracking",
-	"youtube.com/generate_204",
-	"youtube.com/youtubei/v1/log_event",
-	"youtube.com/youtubei/v1/player/ad_break",
-	"youtube.com/api/stats",
-	"youtube.com/pcs/activeview",
-	"||doubleclick.net",
-	"google-analytics.com",
-	"googleadservices.com",
-	"||googleusercontent.com/proxy",
-	"||googlesyndication.com",
-	"google.com/gen_204",
-	"play.google.com/log",
-	"googleoptimize.com",
-	"googletagmanager.com",
-	"imasdk.googleapis.com",
-	"fundingchoicesmessages.google.com",
-	"ad-delivery.net",
-	"||amazon-adsystem.com",
-	"open.spotifycdn.com/cdn/js/retargeting-pixels||.js",
-	"spotify.com/api/masthead",
-	"||ingest.sentry.io/api",
-	"||afcdn.net",
-	"a.exdynsrv.com",
-	"cdn.runative-syndicate.com/sdk/v1/n.js",
-	"||bidgear.com",
-	"cdn.jsdelivr.net/gh/InteractiveAdvertisingBureau/AdBlockDetection",
-	"gamescdnfor.com",
-	"bf.sidehaffit.com",
-	"||adskeeper.com",
-	"vidmoly.to/static/vastAD.js",
-	"cdn.staticmoly.me",
-	"stubborndreadcounterfeit.com",
-	"cdn.barscreative1.com",
-	"ifsnickshriek.com",
-	"cabbabip.com",
-	"static.twitchcdn.net/assets/features.video-player.components.video-ads.pushdown-sda-eligibility-1a1208e7655b8921f4a4.js",
-	"cdn.creative-bars1.com",
-	"metrics.roblox.com/v1/thumbnails/metadata",
-	"notifications.roblox.com/v2/push-notifications/chrome-manifest",
-	"apis.roblox.com/universal-app-configuration/v1/behaviors/cookie-policy",
-	"metrics.roblox.com/v1/performance/send-measurement",
-	"metrics.roblox.com/v1/performance/measurements",
-	"lms.roblox.com/report",
-	"roblox.com/user-sponsorship",
-	"logs.xiti.com/hit.xiti",
-	"espacenumerique.turbo-self.com/App_Themes/js/cookieconsent.js",
-	"espacenumerique.turbo-self.com/App_Themes/js/cookieconsent-init.js",
-	"espacenumerique.turbo-self.com/App_Themes/js/ihm-ads.js",
-	"mtm.turbo-self.fr/matomo.||",
-	"collector.github.com",
-	"api.github.com/_private/browser/stats",
-	"facebook.com/images/cookies",
-	"connect.facebook.net/||/fbevents.js",
-	"facebook.com/ajax",
-	"instagram.com/logging/falco",
-	"instagram.com/ajax",
-	"reporting.cdndex.io/error",
-	"d2v02itv0y9u9t.cloudfront.net/dist",
-	"sb.scorecardresearch.com/beacon.js",
-	"sb.scorecardresearch.com/p",
-	"||ads-twitter.com",
-	"||ingest.sentry.io",
-	"instagram.com/logging/falco",
-	"instagram.com/ajax",
-	"apple.com/metrics/ac-analytics",
-	"||adnxs.co",
-	"cookie",
-	"ad",
-	"analytic"
-]
+{
+	"youtube.com/pagead": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"youtube.com/ptracking": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"youtube.com/generate_204": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"youtube.com/youtubei/v1/log_event": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"youtube.com/youtubei/v1/player/ad_break": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"youtube.com/api/stats": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"youtube.com/pcs/activeview": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"||doubleclick.net": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"google-analytics.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"googleadservices.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"||googleusercontent.com/proxy": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"||googlesyndication.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"google.com/gen_204": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"play.google.com/log": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"googleoptimize.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"googletagmanager.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"imasdk.googleapis.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"fundingchoicesmessages.google.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"ad-delivery.net": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"||amazon-adsystem.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"open.spotifycdn.com/cdn/js/retargeting-pixels||.js": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"spotify.com/api/masthead": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer/Spotify.json" } }
+	},
+	"||ingest.sentry.io/api": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"||afcdn.net": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"a.exdynsrv.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"cdn.runative-syndicate.com/sdk/v1/n.js": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"||bidgear.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"cdn.jsdelivr.net/gh/InteractiveAdvertisingBureau/AdBlockDetection": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"gamescdnfor.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"bf.sidehaffit.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"||adskeeper.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"vidmoly.to/static/vastAD.js": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"cdn.staticmoly.me": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"stubborndreadcounterfeit.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"cdn.barscreative1.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"ifsnickshriek.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"cabbabip.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"static.twitchcdn.net/assets/features.video-player.components.video-ads.pushdown-sda-eligibility-1a1208e7655b8921f4a4.js": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"cdn.creative-bars1.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"metrics.roblox.com/v1/thumbnails/metadata": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"notifications.roblox.com/v2/push-notifications/chrome-manifest": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"apis.roblox.com/universal-app-configuration/v1/behaviors/cookie-policy": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"metrics.roblox.com/v1/performance/send-measurement": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"metrics.roblox.com/v1/performance/measurements": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"lms.roblox.com/report": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"roblox.com/user-sponsorship": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"logs.xiti.com/hit.xiti": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"espacenumerique.turbo-self.com/App_Themes/js/cookieconsent.js": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"espacenumerique.turbo-self.com/App_Themes/js/cookieconsent-init.js": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"espacenumerique.turbo-self.com/App_Themes/js/ihm-ads.js": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"mtm.turbo-self.fr/matomo.||": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"collector.github.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"api.github.com/_private/browser/stats": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"facebook.com/images/cookies": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"connect.facebook.net/||/fbevents.js": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"facebook.com/ajax": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"instagram.com/logging/falco": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"instagram.com/ajax": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"reporting.cdndex.io/error": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"d2v02itv0y9u9t.cloudfront.net/dist": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"sb.scorecardresearch.com/beacon.js": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"sb.scorecardresearch.com/p": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"||ads-twitter.com": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"||ingest.sentry.io": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"instagram.com/logging/falco": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"instagram.com/ajax": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"apple.com/metrics/ac-analytics": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"||adnxs.co": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"cookie": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"ad": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	},
+	"analytic": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer" } }
+	}
+}
