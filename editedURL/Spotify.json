@@ -1,0 +1,180 @@
+{
+    "header": {
+      "navigation": {
+        "brand": {
+          "href": "https://www.spotify.com/fr/",
+          "alt": "Spotify",
+          "dataAttributes": {
+            "data-tracking": "{\"category\": \"menu\", \"action\": \"spotify-logo\"}"
+          }
+        },
+        "user": {
+          "userIconUrl": "https://i.scdn.co/image/ab67757000003b826506f3ed8eba55cb8e29905d",
+          "userIconAlt": "Profil"
+        },
+        "mobileMenu": {
+          "profileLink": {
+            "href": "https://www.spotify.com/fr/account/overview/",
+            "alt": "Compte"
+          }
+        },
+        "nav": [{
+          "type": "link",
+          "parameters": {
+            "href": "https://support.spotify.com/",
+            "text": "Assistance",
+            "dataAttributes": {
+              "data-ga-category": "menu",
+              "data-ga-action": "help"
+            }
+          }
+        }, {
+          "type": "link",
+          "parameters": {
+            "href": "https://www.spotify.com/fr/download/",
+            "text": "Télécharger",
+            "dataAttributes": {
+              "data-ga-category": "menu",
+              "data-ga-action": "download",
+              "data-gtm-event-name": "download_spotify_button_clicked",
+              "data-tracking": "{\"category\": \"download\", \"action\": \"download start\", \"label\": \"download-navbar\"}"
+            }
+          }
+        }, {
+          "type": "sep"
+        }, {
+          "type": "profile",
+          "parameters": {
+            "text": "Profil",
+            "items": [{
+              "type": "link",
+              "parameters": {
+                "href": "https://www.spotify.com/fr/account/overview/",
+                "text": "Compte",
+                "dataAttributes": {
+                  "data-tracking": "{\"category\": \"menu\", \"action\": \"account\"}"
+                }
+              }
+            }, {
+              "type": "link",
+              "parameters": {
+                "href": "https://www.spotify.com/fr/logout/",
+                "text": "Déconnexion",
+                "isSubtle": true,
+                "dataAttributes": {
+                  "data-tracking": "{\"category\": \"menu\", \"action\": \"log-out\"}"
+                }
+              }
+            }]
+          }
+        }],
+        "skipLinkText": "Passer au contenu",
+        "desktopAriaLabel": "Navigation sur ordinateur",
+        "mobileAriaLabel": "Navigation sur mobile"
+      }
+    },
+    "footer": {
+      "brand": {
+        "href": "https://www.spotify.com/fr/",
+        "alt": "Spotify"
+      },
+      "topLinkGroups": [{
+        "title": "Société",
+        "links": [{
+          "title": "A propos",
+          "href": "https://www.spotify.com/fr/about-us/contact/",
+          "dataAttributes": {
+            "data-ga-category": "menu",
+            "data-ga-action": "about"
+          }
+        }, {
+          "title": "Offres d\u0027emploi",
+          "href": "https://www.lifeatspotify.com/",
+          "dataAttributes": {
+            "data-ga-category": "menu",
+            "data-ga-action": "jobs"
+          }
+        }, {
+          "title": "For the Record",
+          "href": "https://newsroom.spotify.com/",
+          "dataAttributes": {
+            "data-ga-category": "menu",
+            "data-ga-action": "press"
+          }
+        }]
+      }, {
+        "title": "Communautés",
+        "links": [{
+          "title": "Espace artistes",
+          "href": "https://artists.spotify.com/",
+          "dataAttributes": {
+            "data-ga-category": "menu",
+            "data-ga-action": "artists"
+          }
+        }, {
+          "title": "Développeurs",
+          "href": "https://developer.spotify.com/",
+          "dataAttributes": {
+            "data-ga-category": "menu",
+            "data-ga-action": "developers"
+          }
+        }]
+      }, {
+        "title": "Liens utiles",
+        "links": [{
+          "title": "Assistance",
+          "href": "https://support.spotify.com/",
+          "dataAttributes": {
+            "data-ga-category": "menu",
+            "data-ga-action": "help"
+          }
+        }, {
+          "title": "Lecteur Web",
+          "href": "https://open.spotify.com/",
+          "dataAttributes": {
+            "data-ga-category": "menu",
+            "data-ga-action": "play"
+          }
+        }, {
+          "title": "Appli mobile gratuite",
+          "href": "https://www.spotify.com/fr/download/",
+          "dataAttributes": {
+            "data-ga-category": "menu",
+            "data-ga-action": "free"
+          }
+        }]
+      }],
+      "socialLinks": [{
+        "name": "Instagram",
+        "icon": "instagram",
+        "href": "https://instagram.com/spotify"
+      }, {
+        "name": "Twitter",
+        "icon": "twitter",
+        "href": "https://twitter.com/spotify"
+      }, {
+        "name": "Facebook",
+        "icon": "facebook",
+        "href": "https://www.facebook.com/Spotify"
+      }],
+      "country": {
+        "name": "France",
+        "flagCode": "fr",
+        "href": "https://www.spotify.com/fr/select-your-country-region/"
+      },
+      "bottomLinks": [{
+        "title": "Légal",
+        "href": "https://www.spotify.com/fr/legal/"
+      }, {
+        "title": "Centre de confidentialité",
+        "href": "https://www.spotify.com/fr/privacy/"
+      }, {
+        "title": "Protection des données",
+        "href": "https://www.spotify.com/fr/legal/privacy-policy/"
+      }, {
+        "title": "Accessibilité",
+        "href": "https://www.spotify.com/fr/accessibility/"
+      }],
+      "copyrightNotice": "© 2023 Spotify AB"
+    }
+  }
