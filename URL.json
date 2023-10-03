@@ -85,7 +85,7 @@
 	},
 	"spotify.com/api/masthead": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://www.github.com/Sleezzi/AdsDestroyer/editedURL/Spotify.json" } }
+		"action": { "type": "redirect", "redirect": { "url": "https://www.sleezzi.github.io/AdsDestroyer/editedURL/Spotify.json" } }
 	},
 	"||ingest.sentry.io/api": {
 		"priority": 1,
