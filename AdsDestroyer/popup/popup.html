@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="dark">
+    <script src="/popup/popup.js"></script>
+    <style>
+        body {
+            height: 150px;
+            width: 200px;
+            background: #333;
+            color: white;
+            margin: 0;
+        }
+    </style>
+    <div id="popup" style="display:flex;justify-content:center;align-items:center;width:100%;height:100%;margin:0;">
+        <div style="display:block;margin:10px;">
+            <div style="display:block;margin:0 0 5px 0;">
+                <span style="text-align:center;">AdsDestroyer:</span>
+            </div>
+            <div style="display:flex;justify-content:center;" class="buttonContainer">
+                <button style="text-align:center;color:white;background:rgba(255,255,255,0.1);border: solid 1px rgba(255,255,255,0.25);border-radius:5px;" id="active">Please wait...</button>
+            </div>
+            <div style="display:flex;justify-content:center;margin: 2px 0 0 0;" class="buttonContainer">
+                <button style="text-align:center;color:white;background:rgba(255,255,255,0.5);border: solid 1px rgba(255,255,255,0.25);border-radius:5px;" id="maskElement">Mask an element</a>
+            </div>
+        </div>
+    </div>
+    
+    <div id="maskElementPage" style="display:none;justify-content:center;align-items:center;width:100%;height:100%;margin:0;">
+        <div style="display:block;margin:10px;">
+            <div style="display:block;margin:0 0 5px 0;">
+                <span style="text-align:center;">Masked Element:</span>
+            </div>
+            <div style="display:flex;justify-content:center;" class="buttonContainer">
+                <button style="text-align:center;color:white;background:rgba(255,255,255,0.1);border: solid 1px rgba(255,255,255,0.25);border-radius:5px;" id="active">Please wait...</button>
+            </div>
+        </div>
+    </div>
+</body>  
+</html>

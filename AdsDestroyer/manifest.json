@@ -1,0 +1,61 @@
+{
+  "manifest_version": 3,
+  "name": "AdsDestroyer",
+  "short_name": "NoAds",
+  "description": "Block ads and tracker from multiple sites.",
+  "version": "0.0.1",
+  "author": "Sleezzi",
+  "icons": {
+    "16": "./img/icon/Logo16.png",
+    "32": "./img/icon/Logo32.png",
+    "48": "./img/icon/Logo48.png",
+    "128": "./img/icon/Logo128.png"
+  },
+  "action": {
+    "default_popup": "/popup/popup.html",
+    "default_icon": "/img/icon/Logo.png",
+    "default_title": "AdsDestroyer - Unenabled"
+  },
+  "options_ui": {
+    "page": "/popup/popup.html?options"
+  },
+  "permissions": [
+    "webRequest",
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback",
+    "background",
+    "storage",
+    "tabs",
+    "activeTab"
+  ],
+  "host_permissions": [
+    "*://*.sleezzi.github.io/*",
+    "*://*.github.com/Sleezzi/*",
+    "<all_urls>"
+  ],
+  "background": {
+    "service_worker": "js/background.js",
+    "persitent": true
+  },
+  "content_scripts": [
+    {
+      "all_frames": true,
+      "matches": [ "http://*/*", "https://*/*" ],
+      "js": ["/js/website/default.js"],
+      "match_about_blank": true,
+      "run_at": "document_end"
+    },
+    {
+      "all_frames": true,
+      "matches": [ "*://*.youtube.com/*" ],
+      "js": ["/js/website/youtube.js"],
+      "run_at": "document_end"
+    },
+    {
+      "all_frames": true,
+      "matches": [ "*://*.twitch.tv/*" ],
+      "js": ["/js/website/twitch.js"],
+      "run_at": "document_end"
+    }
+  ]
+}
