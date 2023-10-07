@@ -273,7 +273,11 @@
 	},
 	"ad*.*.*": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } },
+		"resourceTypes": [
+			"csp_report", "image", "main_frame", "media", "object", "other", "ping", "script",
+			"sub_frame", "webbundle", "websocket", "webtransport", "xmlhttprequest"
+		]
 	},	
 	"github.com/Sleezzi/AdsDestroyer": {
 		"priority": 1,
