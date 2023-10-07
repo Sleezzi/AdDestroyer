@@ -51,6 +51,10 @@
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
 	},
+	"https://www.google.com/images/phd/px.gif": {
+		"priority": 1,
+		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+	},
 	"play.google.com/log": {
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
