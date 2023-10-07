@@ -1,91 +1,91 @@
 {
 	"youtube.com/pagead": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"youtube.com/ptracking": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"youtube.com/generate_204": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"youtube.com/youtubei/v1/log_event": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"youtube.com/youtubei/v1/player/ad_break": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"youtube.com/api/stats": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"youtube.com/pcs/activeview": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"*doubleclick.net": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"google-analytics.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"googleadservices.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"*googleusercontent.com/proxy": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"*googlesyndication.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"google.com/gen_204": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"https://www.google.com/images/phd/px.gif": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"play.google.com/log": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"googleoptimize.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"googletagmanager.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"imasdk.googleapis.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"fundingchoicesmessages.google.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"ad-delivery.net": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"*amazon-adsystem.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"open.spotifycdn.com/cdn/js/retargeting-pixels.*.js": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"spotify.com/api/masthead": {
 		"priority": 1,
@@ -93,191 +93,191 @@
 	},
 	"*ingest.sentry.io/api": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"*afcdn.net": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"a.exdynsrv.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"cdn.runative-syndicate.com/sdk/v1/n.js": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"*bidgear.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"cdn.jsdelivr.net/gh/InteractiveAdvertisingBureau/AdBlockDetection": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"gamescdnfor.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"bf.sidehaffit.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"*adskeeper.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"vidmoly.to/static/vastAD.js": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"cdn.staticmoly.me": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"stubborndreadcounterfeit.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"cdn.barscreative1.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"ifsnickshriek.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"cabbabip.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"static.twitchcdn.net/assets/features.video-player.components.video-ads.pushdown-sda-eligibility-1a1208e7655b8921f4a4.js": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"cdn.creative-bars1.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"metrics.roblox.com/v1/thumbnails/metadata": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"notifications.roblox.com/v2/push-notifications/chrome-manifest": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"apis.roblox.com/universal-app-configuration/v1/behaviors/cookie-policy": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"metrics.roblox.com/v1/performance/send-measurement": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"metrics.roblox.com/v1/performance/measurements": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"lms.roblox.com/report": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"roblox.com/user-sponsorship": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"logs.xiti.com/hit.xiti": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"espacenumerique.turbo-self.com/App_Themes/js/cookieconsent.js": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"espacenumerique.turbo-self.com/App_Themes/js/cookieconsent-init.js": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"espacenumerique.turbo-self.com/App_Themes/js/ihm-ads.js": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"mtm.turbo-self.fr/matomo.*": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"collector.github.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"api.github.com/_private/browser/stats": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"facebook.com/images/cookies": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"connect.facebook.net/*/fbevents.js": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"facebook.com/ajax": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"instagram.com/logging/falco": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"instagram.com/ajax": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"reporting.cdndex.io/error": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"d2v02itv0y9u9t.cloudfront.net/dist": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"sb.scorecardresearch.com/beacon.js": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"sb.scorecardresearch.com/p": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"*ads-twitter.com": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"*ingest.sentry.io": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"instagram.com/logging/falco": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"instagram.com/ajax": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"apple.com/metrics/ac-analytics": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"*adnxs.co": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } }
+		"action": { "type": "redirect" }
 	},
 	"ad*.*.*": {
 		"priority": 1,
-		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/index.html" } },
+		"action": { "type": "redirect" },
 		"resourceTypes": [
 			"csp_report", "image", "main_frame", "media", "object", "other", "ping", "script",
 			"sub_frame", "webbundle", "websocket", "webtransport", "xmlhttprequest"
