@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body class="dark">
+    <script src="/popup/popup.js"></script>
+    <style>
+        body {
+            height: 150px;
+            width: 200px;
+            background: #333;
+            color: white;
+            margin: 0;
+        }
+        #popup {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+        }
+        #popup > div {
+            display: block;
+            margin: 10px;
+        }
+        #popup > div > #adBlockedContainer {
+            display: none;
+        }
+        body.settings {
+            height: 100vh;
+            width: 100%;
+        }
+        body.settings > div#popup > div > div.buttonContainer > #maskElement {
+            display: none;
+        }
+        body.settings > #popup > div > #adBlockedContainer {
+            display: block;
+            justify-content: center;
+            align-items: center;
+            margin: 4vh 0 0 0;
+        }
+        table {
+            border: 1px solid white;
+        }
+    </style>
+    <div id="popup">
+        <div>
+            <div style="display:flex;margin:0 0 5px 0;justify-content:center;">
+                <span style="text-align:center;">AdsDestroyer:</span>
+            </div>
+            <div style="display:flex;justify-content:center;" class="buttonContainer">
+                <button style="text-align:center;color:white;background:rgba(255,255,255,0.1);border: solid 1px rgba(255,255,255,0.25);border-radius:5px;" id="active">Please wait...</button>
+            </div>
+            <div id="adBlockedContainer">
+                <div>
+                    <h3>Blocked request :</h3>
+                </div>
+                <div>
+                    <table border="1">
+                        <tr>
+                            <th style="font-weight:900;">URL</th>
+                            <th style="font-weight:900;">Numéro</th>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div style="display:flex;justify-content:center;margin: 2px 0 0 0;" class="buttonContainer">
+                <button style="text-align:center;color:white;background:rgba(255,255,255,0.5);border: solid 1px rgba(255,255,255,0.25);border-radius:5px;" id="maskElement">Mask an element</a>
+            </div>
+        </div>
+        <!-- <div>
+            <canvas id="Stats" width="400" height="400"></canvas>
+        </div> -->
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+</body>  
+</html>
