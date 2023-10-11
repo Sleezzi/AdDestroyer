@@ -275,6 +275,10 @@
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
+	"*.googlevideo.*/videoplayback": {
+		"priority": 1,
+		"action": { "type": "allow" },
+	},
 	"ad*.*.*": {
 		"priority": 1,
 		"action": { "type": "redirect" },
