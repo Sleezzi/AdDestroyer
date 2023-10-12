@@ -1,4 +1,4 @@
-let blockedURL = { blockedURL: {}, blocked: { total: 0 }, whitelist: [ "undefined", "chrome://", "chrome-extension://", "chrome-extension://dfegmgnckimhngnbckkikgndcbmmcaem", "file://" ] };
+let blockedURL = { blockedURL: {}, blocked: { total: 0 }, whitelist: [ "undefined", "chrome://", "chrome-extension://", `chrome-extension://${chrome.runtime.id}`, "file://" ] };
 let active = true;
 
 chrome.storage.local.get("active", value => active = value.active ?? true);
