@@ -269,7 +269,7 @@
 	},
 	"*.googlevideo.*/videoplayback": {
 		"priority": 1,
-		"action": { "type": "allow" },
+		"action": { "type": "allow" }
 	},
 	"ad*.*.*": {
 		"priority": 1,
