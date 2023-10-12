@@ -227,14 +227,6 @@
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"instagram.com/logging/falco": {
-		"priority": 1,
-		"action": { "type": "redirect" }
-	},
-	"instagram.com/ajax": {
-		"priority": 1,
-		"action": { "type": "redirect" }
-	},
 	"reporting.cdndex.io/error": {
 		"priority": 1,
 		"action": { "type": "redirect" }
