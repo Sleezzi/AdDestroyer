@@ -143,6 +143,18 @@
 		"priority": 2,
 		"action": { "type": "redirect" }
 	},
+	"onclickalgo.com": {
+		"priority": 2,
+		"action": { "type": "redirect" }
+	},
+	"pubfuture-ad.com": {
+		"priority": 2,
+		"action": { "type": "redirect" }
+	},
+	"ampproject.org": {
+		"priority": 2,
+		"action": { "type": "redirect" }
+	},
 	"cdn.staticmoly.me": {
 		"priority": 2,
 		"action": { "type": "redirect" }
