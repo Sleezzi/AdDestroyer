@@ -39,6 +39,10 @@
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
+	"gstatic.com": {
+		"priority": 1,
+		"action": { "type": "redirect" }
+	},
 	"*.googleusercontent.com/proxy": {
 		"priority": 1,
 		"action": { "type": "redirect" }
