@@ -1,4 +1,8 @@
 {
+	"*": {
+		"priority": 2,
+		"action": { "type": "allow" }
+	},
 	"youtube.com/pagead": {
 		"priority": 1,
 		"action": { "type": "redirect" }
