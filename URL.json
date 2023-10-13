@@ -27,7 +27,7 @@
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"*doubleclick.net": {
+	"*.doubleclick.net": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
@@ -39,11 +39,11 @@
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"*googleusercontent.com/proxy": {
+	"*.googleusercontent.com/proxy": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"*googlesyndication.com": {
+	"*.googlesyndication.com": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
@@ -51,7 +51,7 @@
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"https://www.google.com/images/phd/px.gif": {
+	"google.com/images/phd/px.gif": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
@@ -79,7 +79,7 @@
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"*amazon-adsystem.com": {
+	"*.amazon-adsystem.com": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
@@ -91,11 +91,11 @@
 		"priority": 1,
 		"action": { "type": "redirect", "redirect": { "url": "https://sleezzi.github.io/AdsDestroyer/editedURL/Spotify.json" } }
 	},
-	"*ingest.sentry.io/api": {
+	"*.ingest.sentry.io/api": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"*afcdn.net": {
+	"*.afcdn.net": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
@@ -103,11 +103,15 @@
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"cdn.runative-syndicate.com/sdk/v1/n.js": {
+	"*.runative-syndicate.com/sdk/v*/n.js": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"*bidgear.com": {
+	"*.bidgear.com": {
+		"priority": 1,
+		"action": { "type": "redirect" }
+	},
+	"*.adskeeper.com": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
@@ -123,7 +127,7 @@
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"*adskeeper.com": {
+	"*.adskeeper.com": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
@@ -243,11 +247,11 @@
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"*ads-twitter.com": {
+	"*.ads-twitter.com": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"*ingest.sentry.io": {
+	"*.ingest.sentry.io": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
@@ -263,7 +267,7 @@
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
-	"*adnxs.co": {
+	"*.adnxs.co": {
 		"priority": 1,
 		"action": { "type": "redirect" }
 	},
