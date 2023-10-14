@@ -1,4 +1,5 @@
-[
-  "https://youtube.com",
-  "https://twitch.tv"
-]
+{
+    "youtube.com": "$/website/youtube.js",
+    "google.com": "$/website/google.js",
+    "twitch.tv": "$/website/twitch.js"
+}
