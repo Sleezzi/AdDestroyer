@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="/js/chart.js"></script>
+</head>
+<body class="dark">
+    <style>
+        body {
+            height: 150px;
+            width: 200px;
+            background: #333;
+            color: white;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        #popup {
+            display: block;
+            width: 100%;
+            margin: 0;
+        }
+        #popup > div {
+            display: block;
+            margin: 10px;
+        }
+        body.settings > #popup > div:nth-child(2) {
+            display: block;
+        }
+        body.settings {
+            height: 100vh;
+            width: 100%;
+        }
+        body.settings > div#popup > div > div.buttonContainer:nth-child(3) > *,
+        body.settings > div#popup > div > div.buttonContainer:nth-child(4) > *,
+        body.chart > div#popup > div:nth-child(1),
+        #popup > div:nth-child(2),
+        #popup > div > #adBlockedContainer {
+            display: none;
+        }
+        body.settings > #popup > div > #adBlockedContainer {
+            display: block;
+            justify-content: center;
+            align-items: center;
+            margin: 4vh 0 0 0;
+        }
+        body.chart {
+            display: block;
+            height: 100vh;
+            width: 100%;
+        }
+        body.chart > #popup > div {
+            display: flex;
+            height: 100%;
+            width: 100%;
+            justify-content: center;
+        }
+        table {
+            border: 1px solid white;
+        }
+    </style>
+    <div id="popup">
+        <div>
+            <div style="display:flex;margin:0 0 5px 0;justify-content:center;">
+                <span style="text-align:center;">AdDestroyer:</span>
+            </div>
+            <div style="display:flex;justify-content:center;" class="buttonContainer">
+                <button style="text-align:center;color:white;background:rgba(255,255,255,0.1);border: solid 1px rgba(255,255,255,0.25);border-radius:5px;" id="active">Please wait...</button>
+            </div>
+            <div style="display:flex;justify-content:center;margin: 2px 0 0 0;" class="buttonContainer">
+                <button style="text-align:center;color:white;background:rgba(255,255,255,0.5);border: solid 1px rgba(255,255,255,0.25);border-radius:5px;" id="maskElement">Mask an element</button>
+            </div>
+            <div style="display:flex;justify-content:center;margin: 2px 0 0 0;" class="buttonContainer">
+                <a target="_blank" style="text-align:center;color:white;background:rgba(0, 0, 0, 0.5);border: solid 1px rgba(255,255,255,0.25);border-radius:5px;" id="options">Options</a>
+            </div>
+            <div id="adBlockedContainer">
+                <div>
+                    <h3>Blocked request (powered by Chart.js) :</h3>
+                </div>
+            </div>
+        </div>
+        <div>
+            <canvas id="chart" width="100%"></canvas>
+        </div>
+    </div>
+    <script src="/popup/popup.js"></script>
+</body>  
+</html>
