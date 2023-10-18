@@ -1,18 +1,29 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
+    background: #333;
+    color: white;
     margin: 0;
     padding: 0;
 }
 
+body > div.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .container {
-    max-width: 400px;
+    width: 50%;
+    height: 50%;
     margin: 0 auto;
     text-align: center;
-    background-color: #fff;
+    background: #FFF;
     border-radius: 8px;
     padding: 20px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .logo {
@@ -22,10 +33,6 @@ body {
     display: block;
 }
 
-h1 {
-    color: #333;
-}
-
 p {
     color: #666;
 }
@@ -33,14 +40,14 @@ p {
 .button {
     display: inline-block;
     padding: 10px 20px;
-    background-color: #007bff;
-    color: #fff;
+    background: #007bff;
+    color: #FFF;
     text-decoration: none;
     border-radius: 5px;
     margin-top: 20px;
-    transition: background-color 0.3s ease;
+    transition: background 0.3s ease;
 }
 
 .button:hover {
-    background-color: #0056b3;
+    background: #1cab1c;
 }
