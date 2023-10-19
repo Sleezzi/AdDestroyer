@@ -41,7 +41,7 @@
     "service_worker": "js/background.js",
     "persitent": true
   },
-  "homepage_url": "http://127.0.0.1:3000/index.html",
+  "homepage_url": "https://sleezzi.github.io/AdDestroyer/index.html",
   "content_scripts": [
     {
       "all_frames": true,
