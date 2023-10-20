@@ -4,7 +4,7 @@
 ! Homepage: https://sleezzi.github.io/AdDestroyer/index.html
 ! GitHub issues: https://github.com/Sleezzi/AdDestroyer
 ! 
-! -----------------URL-----------------!
+! -----------------Blocked URL-----------------!
 youtube.com/pagead
 youtube.com/ptracking
 youtube.com/generate_204
