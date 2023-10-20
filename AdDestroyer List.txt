@@ -1,5 +1,5 @@
-[AdDestroyer]
-! Title: AdDestroyer
+! [AdDestroyer]
+! Title: AdDestroyer List
 ! 
 ! Homepage: https://sleezzi.github.io/AdDestroyer/index.html
 ! GitHub issues: https://github.com/Sleezzi/AdDestroyer
@@ -32,7 +32,7 @@ open.spotifycdn.com/cdn/js/retargeting-pixels.*.js
 *.afcdn.net
 a.exdynsrv.com
 *.runative-syndicate.com/sdk/v*/n.js
-*.bidgear.com
+~platform|~demande|~imp9.bidgear.com
 *.adskeeper.com
 cdn.jsdelivr.net/gh/InteractiveAdvertisingBureau/AdBlockDetection
 gamescdnfor.com
