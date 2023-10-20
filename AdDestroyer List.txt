@@ -76,7 +76,6 @@ instagram.com/logging/falco
 instagram.com/ajax
 apple.com/metrics/ac-analytics
 *.adnxs.co
-ad*.*.*
 ! -----------------Allow-----------------!
-*.googlevideo.*/videoplayback
+*.googlevideo.com/videoplayback
 ! -----------------Element-----------------!
