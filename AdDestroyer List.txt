@@ -76,6 +76,9 @@ instagram.com/logging/falco
 instagram.com/ajax
 apple.com/metrics/ac-analytics
 *.adnxs.co
+amazon.*/rd/uedata
+unagi.amazon.*
+fls-na.amazon.*
 ! -----------------Allow-----------------!
 *.googlevideo.com/videoplayback
 ! -----------------Element-----------------!
