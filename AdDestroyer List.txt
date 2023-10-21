@@ -79,6 +79,8 @@ apple.com/metrics/ac-analytics
 amazon.*/rd/uedata
 unagi.amazon.*
 fls-na.amazon.*
+amazon.*/empty.gif
+.*cloudfront.net
 ! -----------------Allow-----------------!
 *.googlevideo.com/videoplayback
 ! -----------------Element-----------------!
